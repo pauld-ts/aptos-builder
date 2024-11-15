@@ -5,7 +5,7 @@ permissions:
   contents: write
 
 env:
-  APTOS_VERSION: v1.7.2
+  APTOS_VERSION: v1.23.2-rc
 
 jobs:
   build-aptos-node:
